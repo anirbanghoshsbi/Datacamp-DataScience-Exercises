@@ -1,3 +1,3 @@
 # Datacamp-DataScience-Exercises
 
-Repo of my github coding exercises.
+Repo of my datacamp coding exercises.
